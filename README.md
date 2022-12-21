@@ -13,5 +13,8 @@ Sample website with plenty of files for demos, agrendando proposito
 
 ## Deployment
 
+Agregando Deployment Info
+
 ## How to Contribute
 
+Agregando como contribuir

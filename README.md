@@ -8,7 +8,7 @@ Agregando introduccion bla bla bla
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, agrendando proposito
 
 
 ## Deployment

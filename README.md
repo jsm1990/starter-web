@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work . Mas texto para rebasing
+This repository is for showing how Git and GitHub work . Mas texto para rebasing, mas y mas cambios para el branch myfeature
 
 ## Introduction
 

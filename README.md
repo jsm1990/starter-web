@@ -18,3 +18,10 @@ Agregando Deployment Info
 ## How to Contribute
 
 Agregando como contribuir
+
+
+### Copyright
+Agregando Copyright
+
+
+

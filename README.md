@@ -21,7 +21,7 @@ Agregando como contribuir, mas texto aqui
 
 
 ### Copyright
-Agregando Copyright
+Agregando Copyright, Todos los derechos reservados
 
 
 

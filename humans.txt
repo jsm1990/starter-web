@@ -7,8 +7,7 @@
 
 # THANKS
 
-    <name>
-
+	Gracias TOtales
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3

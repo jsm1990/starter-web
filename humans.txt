@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Javier Santamaria jsm@git.training @jsm
 
 # THANKS
 
